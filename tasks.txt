@@ -2,3 +2,4 @@ My Tasks
 1. Study Git
 2. Complete assignment
 3. Watch Git tutorial
+3. Practice merge conflicts
